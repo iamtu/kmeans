@@ -1,0 +1,9 @@
+[kmeans]
+location_data = "/data00/tu.vu/repos/text_label/data_process_tools/clustering/LDA/vi_news/T_20/clusters/cluster_18_dir/lda_output/doc_topic.vec"
+location_ct = "/data00/tu.vu/repos/text_label/data_process_tools/clustering/LDA/vi_news/T_20/clusters/cluster_18_dir/lda_output/doc_topic.vec.centroids"
+
+dim = 4
+num_cluster = 4
+iter_num = 1000
+threads = 15
+
